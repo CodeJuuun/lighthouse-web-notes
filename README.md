@@ -1,7 +1,8 @@
 # [David]'s Notes
 
-# This is an H1 header
-###### This is an H6 header
- > ### Markdown tips
-  - [Link Text] https://github.com/CodeJuuun  --Syntax to add a link
+## Summary
+This repository contains all of the notes taken by [David](https://github.com/CodeJuuun) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
+
+
 
